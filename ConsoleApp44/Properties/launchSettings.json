@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp44": {
+      "commandName": "Project",
+      "commandLineArgs": "red yellow"
+    }
+  }
+}
